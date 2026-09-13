@@ -17,7 +17,7 @@
 
 :root {
   /* Background image variables */
-  --background-image: url('https://github.com/sappyduckie/caissafiles/blob/de584f1fc3be82eafaa07f7fb1f526e667caa642/discord/shiro-bg.png'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://github.com/sappyduckie/caissafiles/blob/master/discord/shiro-bg.png'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
