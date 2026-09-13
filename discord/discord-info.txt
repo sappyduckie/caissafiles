@@ -1,1 +1,1 @@
-dorion with vencord through AUR
+vesktop-bin through aur
