@@ -77,14 +77,14 @@
   --dplus-radius-server: 20%;
   /* Rounding of server profile icons. Should be relative size, e.g. percentage. */
 
-  --dplus-spacing-ui: 10px;
+  --dplus-spacing-ui: 8px;
   /* This value affects overall padding and margins across the app. */
   /* Increasing this will make the app less compact. */
-  --dplus-spacing-app: 10px;
+  --dplus-spacing-app: 8px;
   /* This value affects spacing between major app elements. */
   /* Increasing this will make the backdrop easier to see. */
 
-  --dplus-icon-avatar-chat: 64px;
+  --dplus-icon-avatar-chat: 32px;
   /* This affects the size of user profile icons as seen in the chat. */
   --dplus-icon-avatar-list: 32px;
   /* The size of user profile icons as seen in lists. */
