@@ -70,7 +70,7 @@
   /* You can use any font that is installed, but you need to input its web name. */
   /* If you just installed a font, you may need to restart the app or device first. */
 
-  --dplus-radius-ui: 10px;
+  --dplus-radius-ui: 15px;
   /* Rounding on square corners of app elements. Should be absolute size, e.g. pixels. */
   --dplus-radius-avatar: 20%;
   /* Rounding of user profile icons. Should be relative size, e.g. percentage. */
